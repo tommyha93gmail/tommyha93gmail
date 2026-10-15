@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Tommy Ha. I am a USMC Veteran currently enrolled at MyComputerCareer in the ITSA program! I am excited to learn everything I can about IT and Cybersecurity. 
 
 <!--
 **tommyha93gmail/tommyha93gmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
